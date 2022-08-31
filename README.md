@@ -73,10 +73,20 @@ The main Challenges I expereinced in this Analysis project : <br />
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- Fistly, we can conclude that 
+
+- Firstly, we can conclude that we achieved highest success rate of "Theater" outcomes in the month of May followed by June, July.In the month of November, December and January we experience the lowest success rate of the theater outcomes.
+- Failure rate of the theater outcomes is the lowest in January, march, September, November and none of the event has been canceled in October.
+
 
 - What can you conclude about the Outcomes based on Goals?
+
+- On the basis of "Outcomes Based On Goal" Line chart I can conclude that the percentage of the successful Outcomes is relatively high when the funding goal is less than 4999 and the rate of success decreases with the increase of the funding goals.
+-Even The failure rate of the theater outcomes is the lowest when the funding goal is less than 4999. The trend of the failure keeps on increasing with the higher funding goals. 
+-The canceled percentage remains constant with the funding goals.
+
+
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+"
