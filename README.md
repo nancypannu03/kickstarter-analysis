@@ -12,6 +12,8 @@ The purpose of this project is to analyse the previous data to help Louise with 
 
 ## Analysis and Challenges
 
+[Kickstarter Challenge](https://github.com/cmmgw/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
+
 ### Analysis of Outcomes Based on Launch Date
 
 For this analysis, we have to create pivot table and Line chart of the theater outcomes( "successful", "failed", "canceled") based on the Launch date.
@@ -36,7 +38,7 @@ For this, we created a new sheet named as "Outcomes Based On Goals" with the fol
 -Percentage Failed <br />
 -Percentage Canceled <br />
 
-Created following rows in "Goal" Column as dollar amount ranges:
+Created following rows in "Goal" Column as dollar amount ranges: <br />
 -Less Than 1000 <br />
 -1000 to 4999 <br />
 -5000 to 9999 <br />
@@ -60,12 +62,18 @@ Finally we will generate a Line Chart illustrating the relations between the out
 ![Test Image](/Resources/Outcomes_vs_Goals.png)
 
 
-
 ### Challenges and Difficulties Encountered
+The main Challenges I expereinced in this Analysis project : <br />
+- The data was not in the readable format. For example, the date was in Unix Timestamp which was later converted to the readable format (month, date, year) by using the the appropriate formula. <br />
+- Another Challenge I encountered was with the Pivot Chart, to determine what Columns need to dragged to the Rows, Columns and Values specified spacing inorder to make data more representable and easy for the visualization. <br />
+- Thirdly, with the usage of the COUNTIFS() formula, had to try it for few times inorder to get the success.
+
+
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Fistly, we can conclude that 
 
 - What can you conclude about the Outcomes based on Goals?
 
