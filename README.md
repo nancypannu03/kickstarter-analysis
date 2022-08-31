@@ -27,7 +27,7 @@ Finally we will generate the Line chart for the visualization of the data select
 In this Analysis, we have to figure out the percentage of the total successful, failed and canceled plays based on dollat amount goal ranges.
 For this, we created a new sheet named as "Outcomes Based On Goals" with the following Columns:
 
--Goal
+-Goal <br />
 -Number Successful
 -Number Failed
 -Number Canceled
