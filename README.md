@@ -22,11 +22,44 @@ Finally we will generate the Line chart for the visualization of the data select
 
 ![Test Image](/Resources/Theater_Outcomes_vs_Launch.png)
 
-From this Line Chart we can conclude that Month of May has the most successful theater events. 
-
 ### Analysis of Outcomes Based on Goals
 
-jj
+In this Analysis, we have to figure out the percentage of the total successful, failed and canceled plays based on dollat amount goal ranges.
+For this, we created a new sheet named as "Outcomes Based On Goals" with the following Columns:
+
+-Goal
+-Number Successful
+-Number Failed
+-Number Canceled
+-Total Projects
+-Percentage Successful
+-Percentage Failed
+-Percentage Canceled
+
+Created following rows in "Goal" Column as dollar amount ranges:
+-Less Than 1000
+-1000 to 4999
+-5000 to 9999
+-10000 to 14999
+-15000 to 19999
+-20000 to 24999
+-25000 to 29999
+-30000 to 34999
+-35000 to 39999
+-40000 to 44999
+-45000 to 49999
+-50000 or more
+
+Inorder to get the values for the columns "Number Successful", "Number Failed", "Number Canceled", we will use COUNTIFS() function, by using the criteria for subcategory as "plays".
+example: =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$T:$T,"plays")
+Total projects values will be equivalent to the total of all three Columns: ("Number Succesfful"+ "Number Failed" + "Number Canceled"). we will use SUM() function inorder to retrieve these values.
+Percentage Successful/ Failed/ Canceled will be calculated by (Successful events/total Projects) * 100 %
+Finally we will generate a Line Chart illustrating the relations between the outcomes based on "plays" percentage and the Goal Range.
+
+
+![Test Image](/Resources/Outcomes_vs_Goals.png)
+
+
 
 ### Challenges and Difficulties Encountered
 
