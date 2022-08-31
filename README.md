@@ -22,7 +22,7 @@ Finally we will generate the Line chart for the visualization of the data select
 
 ![Test Image](/Resources/Theater_Outcomes_vs_Launch.png)
 
-
+From this Line Chart we can conclude that Month of May has the most successful theater events. 
 
 
 ### Analysis of Outcomes Based on Goals
