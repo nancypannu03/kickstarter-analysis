@@ -12,7 +12,7 @@ The purpose of this project is to analyse the previous data to help Louise with 
 
 ## Analysis and Challenges
 
-[Kickstarter Challenge](https://github.com/cmmgw/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
+[Kickstarter Challenge](/Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Launch Date
 
