@@ -22,6 +22,8 @@ Inorder to achieve more refined data we will break down the Column "Category and
 Next, we will create pivot table based on "Parent category" and "Years" with "date created conversion" as rows and "outcomes" as columns and values. Then we have to filer "successful", "failed", canceled" from the outcomes column and filter the "Parent Category" to display the data for "theater".
 Finally we will generate the Line chart for the visualization of the data selected and filtered.
 
+![Test Image](/Resources/PivotChart-Outcomes Based On Goals.png)
+
 ![Test Image](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
