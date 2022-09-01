@@ -97,5 +97,5 @@ The main Challenges I expereinced in this Analysis project : <br />
    -Same with the second line chart: "Outcomes Based on Goals is just limited to "plays" subcategory, we should expand and explore the analysing platform so that we can interpret the data in a better way. <br />
 
 - What are some other possible tables and/or graphs that we could create? <br />
-  -We can add an extra filter on the subcategory, for example "theater" has further sub categories -"plays","musical" and "spaces" and create a line chart to figure out the trend of all the subcategories as well.
+  -We can add an extra filter on the subcategory, for example "theater" has further sub categories -"plays","musical" and "spaces" and create a line chart to figure out the trend of all the subcategories as well. <br />
   -We can create boxplots and identify outliers for easier and effective decision making.
