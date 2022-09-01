@@ -63,7 +63,7 @@ Total projects values will be equivalent to the total of all three Columns: ("Nu
 Percentage Successful/ Failed/ Canceled will be calculated by <b>(Successful events/total Projects) * 100 %</b> <br />
 Finally we will generate a Line Chart illustrating the relations between the outcomes based on "plays" percentage and the Goal Range.
 
-  ![Test Image](/Resources/)</br>
+![Test Image](/Resources/PivotChart_Outcomes_vs_Goals.png)</br>
   
 ![Test Image](/Resources/Outcomes_vs_Goals.png)
 
