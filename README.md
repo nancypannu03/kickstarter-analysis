@@ -98,4 +98,4 @@ The main Challenges I expereinced in this Analysis project : <br />
 
 - What are some other possible tables and/or graphs that we could create? <br />
   -We can add an extra filter on the subcategory, for example "theater" has further sub categories -"plays","musical" and "spaces" and create a line chart to figure out the trend of all the subcategories as well.
-  - We can create boxplots and identify outliers for easier and effective decision making.
+  -We can create boxplots and identify outliers for easier and effective decision making.
