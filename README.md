@@ -18,7 +18,7 @@ The purpose of this project is to analyse the previous data to help Louise with 
 
 For this analysis, we have to create pivot table and Line chart of the theater outcomes( "successful", "failed", "canceled") based on the Launch date.
 Starting with the analysis, first we have to figure out that the Kickstarter data is in readable format. We can see that the data in columns deadline and launched_at is in Unix timestamps rather than in standard date format. Therefore, we will be using advanced formula for this conversion and convert the data into readable format (month, date, year). Then we will create new column "Years" and apply <b>=YEAR() </b> function to extract the year from the "Date" Column. 
-Inorder to achieve more refined data we will break down the Column "Category and Subcategory" into "Parent Category" and "Sub category".
+Inorder to achieve more refined data we will break down the Column "Category and Subcategory" into <b>"Parent Category"</b> and <b>"Sub category"</b>.
 Next, we will create pivot table based on "Parent category" and "Years" with "date created conversion" as rows and "outcomes" as columns and values. Then we have to filer "successful", "failed", canceled" from the outcomes column and filter the "Parent Category" to display the data for "theater".
 Finally we will generate the Line chart for the visualization of the data selected and filtered.
 
@@ -27,7 +27,7 @@ Finally we will generate the Line chart for the visualization of the data select
 
 ### Analysis of Outcomes Based on Goals
 
-In this Analysis, we have to figure out the percentage of the total successful, failed and canceled plays based on dollat amount goal ranges.
+In this Analysis, we have to figure out the percentage of the total successful, failed and canceled plays based on dollar amount goal ranges.
 For this, we created a new sheet named as "Outcomes Based On Goals" with the following Columns: <br />
 
 -Goal <br />
@@ -53,11 +53,11 @@ Created following rows in "Goal" Column as dollar amount ranges: <br />
 -45000 to 49999 <br />
 -50000 or more <br />
 
-Inorder to get the values for the columns "Number Successful", "Number Failed", "Number Canceled", we will use COUNTIFS() function, by using the criteria for subcategory as "plays". <br />
+Inorder to get the values for the columns "Number Successful", "Number Failed", "Number Canceled", we will use <b>=COUNTIFS()</b> function, by using the criteria for subcategory as "plays". <br />
 <b>example: =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$T:$T,"plays") </b>
 <br />
-Total projects values will be equivalent to the total of all three Columns: ("Number Succesfful"+ "Number Failed" + "Number Canceled"). we will use SUM() function inorder to retrieve these values. <br />
-Percentage Successful/ Failed/ Canceled will be calculated by (Successful events/total Projects) * 100 % <br />
+Total projects values will be equivalent to the total of all three Columns: ("Number Succesfful"+ "Number Failed" + "Number Canceled"). we will use <b>=SUM()</b> function inorder to retrieve these values. <br />
+Percentage Successful/ Failed/ Canceled will be calculated by <b>(Successful events/total Projects) * 100 %</b> <br />
 Finally we will generate a Line Chart illustrating the relations between the outcomes based on "plays" percentage and the Goal Range.
 
 
