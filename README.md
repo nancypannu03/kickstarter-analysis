@@ -81,7 +81,7 @@ The main Challenges I expereinced in this Analysis project : <br />
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
   -Firstly, we can conclude that we achieved <b>highest success rate</b> of "Theater" outcomes in the month of <b>May</b> followed by June, July. In the month of <b>November</b>, <b>December</b> and <b>January</b> we experience the <b>lowest success rate</b> of the theater outcomes. <br />
-  -<b>Failure rate</b> of the theater outcomes is the <b>lowest</b> in <b>January</b>, <b>march</b>, <b>September</b>, <b>November</b> and none of the event has been canceled in October.<br />
+  -<b>Failure rate</b> of the theater outcomes is the <b>lowest</b> in <b>November</b> followed by January, March, September  and none of the event has been canceled in October.<br />
 
 
 - What can you conclude about the Outcomes based on Goals?
@@ -91,11 +91,12 @@ The main Challenges I expereinced in this Analysis project : <br />
 -The <b>canceled percentage</b> remains <b>constant</b> with the funding goals.<br />
 
 
-
 - What are some limitations of this dataset? <br />
+  
    -The main limitation is these results are just based on the theater outcomes whereas, results will vary if we use the other categories such as games, publishing, music. Therefore, the outcomes must be limited on the the basis of theater category. <br />
    -Same with the second line chart: "Outcomes Based on Goals is just limited to "plays" subcategory, we should expand and explore the analysing platform so that we can interpret the data in a better way. <br />
 
 - What are some other possible tables and/or graphs that we could create? <br />
+  
   -We can add an extra filter on the subcategory, for example "theater" has further sub categories -"plays","musical" and "spaces" and create a line chart to figure out the trend of all the subcategories as well. <br />
   -We can create boxplots and identify outliers for easier and effective decision making.
