@@ -22,7 +22,7 @@ For this analysis, we have to create pivot table and Line chart of the theater o
 Starting with the analysis, first we have to figure out that the Kickstarter data is in readable format. We can see that the data in columns deadline and launched_at is in <b>Unix timestamps</b> rather than in <b>standard date format</b>. Therefore, we will be using advanced formula for this conversion and convert the data into readable format (month, date, year). Then we will create new column "Years" and apply <b>=YEAR() </b> function to extract the year from the "Date" Column. 
 Inorder to achieve more refined data we will break down the Column "Category and Subcategory" into <b>"Parent Category"</b> and <b>"Sub category"</b>.
 Next, we will create pivot table based on "Parent category" and "Years" with "date created conversion" as rows and "outcomes" as columns and values. Then we have to filer "successful", "failed", canceled" from the outcomes column and filter the "Parent Category" to display the data for "theater".
-Finally we will generate the Line chart for the visualization of the data selected and filtered.
+Finally we will generate the Line chart for the visualization on the basis of filtered and selected data.
 
 ![Test Image](/Resources/PivotChart_Outcomes_vs_Launch.png) <br/>
 
