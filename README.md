@@ -87,7 +87,7 @@ The main Challenges I expereinced in this Analysis project : <br />
 - What can you conclude about the Outcomes based on Goals?
 
   -On the basis of "Outcomes Based On Goal" Line chart I can conclude that the <b>percentage</b> of the <b>successful Outcomes</b> is relatively <b>high</b> when the funding goal is <b>less than 4999</b> and the rate of success decreases with the increase of the funding goals.<br />
-  -Even The <b>failure rate<b> of the theater outcomes is the <b>lowest</b> when the funding goal is <b>less than 4999</b>. The trend of the failure keeps on increasing with the higher funding goals. <br />
+  -Even The <b>failure rate</b> of the theater outcomes is the <b>lowest</b> when the funding goal is <b>less than 4999</b>. The trend of the failure keeps on increasing with the higher funding goals. <br />
 -The <b>canceled percentage</b> remains <b>constant</b> with the funding goals.<br />
 
 
