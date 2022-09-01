@@ -80,7 +80,7 @@ The main Challenges I expereinced in this Analysis project : <br />
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  -Firstly, we can conclude that we achieved <b>highest success rate</b> of "Theater" outcomes in the month of <b>May</b> followed by June, July.In the month of <b>November</b>, <b>December</b> and <b>January</b> we experience the <b>lowest success rate</b> of the theater outcomes. <br />
+  -Firstly, we can conclude that we achieved <b>highest success rate</b> of "Theater" outcomes in the month of <b>May</b> followed by June, July. In the month of <b>November</b>, <b>December</b> and <b>January</b> we experience the <b>lowest success rate</b> of the theater outcomes. <br />
   -<b>Failure rate</b> of the theater outcomes is the <b>lowest</b> in <b>January</b>, <b>march</b, <b>September</b>, <b>November</b> and none of the event has been canceled in October.<br />
 
 
