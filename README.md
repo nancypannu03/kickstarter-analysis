@@ -80,15 +80,15 @@ The main Challenges I expereinced in this Analysis project : <br />
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  -Firstly, we can conclude that we achieved highest success rate of "Theater" outcomes in the month of May followed by June, July.In the month of November, December and January we experience the lowest success rate of the theater outcomes. <br />
-  -Failure rate of the theater outcomes is the lowest in January, march, September, November and none of the event has been canceled in October.<br />
+  -Firstly, we can conclude that we achieved <b>highest success rate</b> of "Theater" outcomes in the month of <b>May</b> followed by June, July.In the month of <b>November</b>, <b>December</b> and <b>January</b> we experience the <b>lowest success rate</b> of the theater outcomes. <br />
+  -<b>Failure rate</b> of the theater outcomes is the <b>lowest</b> in <b>January</b>, <b>march</b, <b>September</b>, <b>November</b> and none of the event has been canceled in October.<br />
 
 
 - What can you conclude about the Outcomes based on Goals?
 
-  -On the basis of "Outcomes Based On Goal" Line chart I can conclude that the percentage of the successful Outcomes is relatively high when the funding goal is less than 4999 and the rate of success decreases with the increase of the funding goals.<br />
-  -Even The failure rate of the theater outcomes is the lowest when the funding goal is less than 4999. The trend of the failure keeps on increasing with the higher funding goals. <br />
--The canceled percentage remains constant with the funding goals.<br />
+  -On the basis of "Outcomes Based On Goal" Line chart I can conclude that the <b>percentage</b> of the <b>successful Outcomes</b> is relatively <b>high</b> when the funding goal is <b>less than 4999</b> and the rate of success decreases with the increase of the funding goals.<br />
+  -Even The <b>failure rate<b> of the theater outcomes is the <b>lowest</b> when the funding goal is <b>less than 4999</b>. The trend of the failure keeps on increasing with the higher funding goals. <br />
+-The <b>canceled percentage</b> remains <b>constant</b> with the funding goals.<br />
 
 
 
