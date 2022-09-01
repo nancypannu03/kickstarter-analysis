@@ -3,7 +3,7 @@
 
 ## Overview of Project
 
-Louise, a Playwright is willing to start a crowdfunding campaign for her play and expecting a budget of over $10,000 for this play. She is little worried about starting her first campaign, so we will be assisting Loiuse with various Data Analysis skills such as filter/format the raw data which will result in creating the easy visualization of the data. Thus, helping her to generate the ideas and factors for a successful campaign.
+Louise, a Playwright is willing to start a crowdfunding campaign for her play and expecting a budget of over $10,000 for this play. She is little worried about starting her first campaign, so we will be assisting Louise with various Data Analysis skills such as filter/format the raw data which will result in creating the easy visualization of the data. Thus, helping her to generate the ideas and factors for a successful campaign.
 
 
 ### Purpose
