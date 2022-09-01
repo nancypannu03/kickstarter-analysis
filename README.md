@@ -72,7 +72,7 @@ Finally we will generate a Line Chart illustrating the relations between the out
 The main Challenges I expereinced in this Analysis project : <br />
 - The data was not in the readable format. For example, the date was in Unix Timestamp which was later converted to the readable format (month, date, year) by using the the appropriate formula. <br />
 - Another Challenge I encountered was with the Pivot Chart, to determine what Columns need to dragged to the Rows, Columns and Values specified spacing inorder to make data more representable and easy for the visualization. <br />
-- Thirdly, with the usage of the COUNTIFS() formula, had to try it for few times inorder to achieve the correct values.
+- Thirdly, with the usage of the COUNTIFS() formula, had to try it for few times inorder to achieve the desired results.
 
 
 
