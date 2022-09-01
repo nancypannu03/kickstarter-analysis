@@ -54,8 +54,8 @@ Created following rows in "Goal" Column as dollar amount ranges: <br />
 -50000 or more <br />
 
 Inorder to get the values for the columns "Number Successful", "Number Failed", "Number Canceled", we will use COUNTIFS() function, by using the criteria for subcategory as "plays". <br />
-**example: =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$T:$T,"plays") **  <br />
-
+<b>example: =COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$T:$T,"plays") </b>
+<br />
 Total projects values will be equivalent to the total of all three Columns: ("Number Succesfful"+ "Number Failed" + "Number Canceled"). we will use SUM() function inorder to retrieve these values. <br />
 Percentage Successful/ Failed/ Canceled will be calculated by (Successful events/total Projects) * 100 % <br />
 Finally we will generate a Line Chart illustrating the relations between the outcomes based on "plays" percentage and the Goal Range.
