@@ -11,7 +11,8 @@ Louise, a Playwright is willing to start a crowdfunding campaign for her play an
 The purpose of this project is to analyse the previous data to help Louise with her fundraising campaign. In this project we will be using data analysis skills and excel functions to filter the Kickstarter data and create the pivot tables, charts and graphs for the better visualization of the data. This will enhance the decision making skills for Louise for her play "fever".
 
 ## Analysis and Challenges
-[Kickstarter Challenge](/Kickstarter_Challenge.
+
+[Kickstarter Challenge](/Kickstarter_Challenge.xlsx)
 [Kickstarter Challenge ZIP FILe](/Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Launch Date
