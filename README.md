@@ -13,7 +13,7 @@ The purpose of this project is to analyse the previous data to help Louise with 
 ## Analysis and Challenges
 
 [Kickstarter Challenge](/Kickstarter_Challenge.xlsx) <br/>
-[Kickstarter Challenge ZIP FILe](/Kickstarter_Challenge.zip)
+[Kickstarter Challenge ZIP FILE](/Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -23,7 +23,7 @@ Inorder to achieve more refined data we will break down the Column "Category and
 Next, we will create pivot table based on "Parent category" and "Years" with "date created conversion" as rows and "outcomes" as columns and values. Then we have to filer "successful", "failed", canceled" from the outcomes column and filter the "Parent Category" to display the data for "theater".
 Finally we will generate the Line chart for the visualization of the data selected and filtered.
 
-
+![Test Image](/Resources/Theater_Outcomes_vs_Launch.png) <br/>
 ![Test Image](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
